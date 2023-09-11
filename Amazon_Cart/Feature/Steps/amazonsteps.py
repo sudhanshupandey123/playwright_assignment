@@ -73,7 +73,7 @@ def searching_and_filtering_product_based_on_rating(context, product_name, ratin
 @when('He add first "{number_of_product_want_to_add}" product to cart')
 def adding_product_to_cart(context, number_of_product_want_to_add):
     '''
-    Adding Product To Cart
+    Adding Those Product To cart which user searhced 
     :param number_of_product_want_to_add: Holds Value How Many User Want To Add To cart
 
     '''
