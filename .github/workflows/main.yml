@@ -20,5 +20,5 @@ jobs:
         
      - name: Run tests
        run: |
-        git update-index --chmod=+x ./Amazon_Cart/Feature/amazon.feature
+        git update-index --chmod=+x ./Amazon_Cart/Feature/amazonfeature.feature
      
